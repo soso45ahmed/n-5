@@ -7,7 +7,7 @@ int main()
     //printf("%d\n",letter);
     float x;
     scanf("%f",&x);
-    printf("%g`\n",x);
-    printf("Hello world!\n");
+    //printf("%g`\n",x);
+    //printf("Hello world!\n");
     return 0;
 }
